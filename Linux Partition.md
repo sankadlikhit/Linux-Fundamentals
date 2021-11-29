@@ -2,7 +2,7 @@ Chapter-2 Linux Partition.
 
 2.1 Introduction.
  
- - There are maimly two types chips UEFI and BIOS.
+ - There are mainly two types chips UEFI and BIOS.
 
  - Both UEFI and BIOS are low-level software that starts when you boot your PC before booting your operating system, but UEFI is a more modern solution, supporting larger hard drives,          faster boot times, more security features, and—conveniently—graphics and mouse cursors.
 
